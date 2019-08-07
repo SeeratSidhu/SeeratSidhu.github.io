@@ -147,6 +147,7 @@ input[type=submit]:hover {
     border-color: #dddddd;
     border-width: 0.5px;
     
+    
 }
 
 .top {
@@ -173,7 +174,7 @@ input[type=submit]:hover {
     width: 150px;
     height: 150px;
     position: relative;
-    margin: 15px 18px 100px 18px;
+    margin: 15px 18px 10px 18px;
     vertical-align: top;
 }
 .title {
